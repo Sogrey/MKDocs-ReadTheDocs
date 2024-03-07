@@ -4,6 +4,7 @@ Built with MkDocs using a theme provided by Read the Docs.
 
 - [mkdocs github](https://github.com/squidfunk/mkdocs-material)
 - [mkdocs doc](https://squidfunk.github.io/mkdocs-material/)
+- [readthedocs](https://about.readthedocs.com/?ref=readthedocs.org).
 
 ## with pip recommended
 
