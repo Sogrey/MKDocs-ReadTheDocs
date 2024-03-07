@@ -1,27 +1,28 @@
 {
-  "name": "mkdocs-readthedocs",
-  "version": "1.0.0",
-  "description": "Built with MkDocs using a theme provided by Read the Docs.",
-  "main": "index.js",
-  "scripts": {
-    "init": "pip install mkdocs-material",
-    "start": "mkdocs serve",
-    "build": "mkdocs build --clean",
-    "gh-deploy": "mkdocs gh-deploy",
-    "deploy": "bash deploy.sh",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Sogrey/MKDocs-ReadTheDocs.git"
-  },
-  "keywords": [
-    "mkdocs"
-  ],
-  "author": "Sogrey",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Sogrey/MKDocs-ReadTheDocs/issues"
-  },
-  "homepage": "https://github.com/Sogrey/MKDocs-ReadTheDocs#readme"
+    "name": "mkdocs-readthedocs",
+    "version": "1.0.0",
+    "description": "Built with MkDocs using a theme provided by Read the Docs.",
+    "main": "index.js",
+    "scripts": {
+        "init": "pip install mkdocs-material",
+        "start": "mkdocs serve",
+        "build": "mkdocs build --clean",
+        "gh-deploy": "mkdocs gh-deploy",
+        "deploy": "bash deploy.sh",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Sogrey/MKDocs-ReadTheDocs.git"
+    },
+    "keywords": [
+        "mkdocs",
+        "readthedocs"
+    ],
+    "author": "Sogrey",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Sogrey/MKDocs-ReadTheDocs/issues"
+    },
+    "homepage": "https://github.com/Sogrey/MKDocs-ReadTheDocs#readme"
 }
