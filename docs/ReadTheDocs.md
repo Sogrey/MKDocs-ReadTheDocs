@@ -2,7 +2,7 @@
 
 For full documentation visit [Full featured documentation deployment platform - Read the Docs --- 全功能文档部署平台-阅读文档](https://about.readthedocs.com/?ref=readthedocs.org).
 
-# Upgrade your documentation with Read the Docs 通过阅读文档升级文档
+## Upgrade your documentation with Read the Docs 通过阅读文档升级文档
 
 1. Create an account   注册一个帐户
    
@@ -38,7 +38,7 @@ install:
 - requirements: docs/requirements.txt
 ```
 
-# Project layout
+## Project layout
 
 ``` yml
     # Configuration
