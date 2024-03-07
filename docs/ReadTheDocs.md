@@ -41,7 +41,7 @@ install:
 ## Project layout
 
 ``` yml
-    # Configuration
-    theme:
-    name: readthedocs
+# Configuration
+theme:
+  name: readthedocs
 ```
