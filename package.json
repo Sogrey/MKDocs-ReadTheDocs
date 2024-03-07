@@ -1,7 +1,7 @@
 {
-  "name": "mkdocs-template",
+  "name": "mkdocs-readthedocs",
   "version": "1.0.0",
-  "description": "mkdocs 模板项目",
+  "description": "Built with MkDocs using a theme provided by Read the Docs.",
   "main": "index.js",
   "scripts": {
     "init": "pip install mkdocs-material",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sogrey/mkdocs-template.git"
+    "url": "git+https://github.com/Sogrey/MKDocs-ReadTheDocs.git"
   },
   "keywords": [
     "mkdocs"
@@ -21,7 +21,7 @@
   "author": "Sogrey",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Sogrey/mkdocs-template/issues"
+    "url": "https://github.com/Sogrey/MKDocs-ReadTheDocs/issues"
   },
-  "homepage": "https://github.com/Sogrey/mkdocs-template#readme"
+  "homepage": "https://github.com/Sogrey/MKDocs-ReadTheDocs#readme"
 }

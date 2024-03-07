@@ -19,7 +19,7 @@ echo -e ""
 git init
 git add -A
 git commit -m 'deploy master'
-git push -f https://github.com/Sogrey/mkdocs-template.git master
+git push -f https://github.com/Sogrey/MKDocs-ReadTheDocs.git master
 
 echo -e ""
 echo -e "\033[32;40m [2/3] \033[0m Building static files"
@@ -38,7 +38,7 @@ git init
 git add -A
 git commit -m 'deploy gh-pages'
 
-git push -f https://github.com/Sogrey/mkdocs-template.git master:gh-pages
+git push -f https://github.com/Sogrey/MKDocs-ReadTheDocs.git master:gh-pages
 
 cd ..
 
