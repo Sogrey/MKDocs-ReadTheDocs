@@ -1,19 +1,19 @@
 # Project information
-site_name: The template for MkDocs
-site_description: A Material Design theme for MkDocs
+site_name: MkDocs using Read the Docs
+site_description: Built with MkDocs using a theme provided by Read the Docs.
 site_author: Sogrey
-site_url: https://Sogrey.github.io/mkdocs-template/
+site_url: https://Sogrey.github.io/MKDocs-ReadTheDocs/
 
 # Repository
-repo_name: Sogrey/mkdocs-template
-repo_url: https://github.com/Sogrey/mkdocs-template
+repo_name: Sogrey/MKDocs-ReadTheDocs
+repo_url: https://github.com/Sogrey/MKDocs-ReadTheDocs
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2020 Sogrey
+copyright: Copyright &copy; 2016 - 2024 Sogrey
 
 # Configuration
 theme:
-  name: material
+  name: readthedocs
   language: en
   palette:
     primary: indigo
@@ -24,13 +24,14 @@ theme:
     
 nav:
     - Home: index.md
+    - ReadTheDocs: ReadTheDocs.md
     - About: about.md
 
 # Extras
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/Sogrey/mkdocs-template
+      link: https://github.com/Sogrey/MKDocs-ReadTheDocs
     # - icon: fontawesome/brands/twitter
     #   link: https://twitter.com/squidfunk
     # - icon: fontawesome/brands/linkedin

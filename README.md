@@ -1,5 +1,5 @@
-# mkdocs-template
-mkdocs 模板项目
+# MKDocs-ReadTheDocs
+Built with MkDocs using a theme provided by Read the Docs.
 
 
 - [mkdocs github](https://github.com/squidfunk/mkdocs-material)
